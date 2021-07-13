@@ -9,7 +9,7 @@ class SearchElement{
            
     }
 }
-class Searching{
+class LinearSearch{
     public static void main(String args[]) {
         int x,n;
         x = 10;
